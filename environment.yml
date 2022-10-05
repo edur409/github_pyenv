@@ -1,0 +1,10 @@
+name: gmp_env
+channels:
+  - conda-forge
+  
+dependencies:
+  - nbgitpuller
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
